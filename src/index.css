@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* biar font-nya terasa modern */
+:root { 
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Helvetica Neue", sans-serif; 
+}
