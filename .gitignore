@@ -22,3 +22,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Vercel
+.vercel
+
+# Environment
+.env
+.env.*.local
+!.env.example
+
+# Testing
+coverage/
+.vitest/
+
+# Caches
+.eslintcache
+*.tsbuildinfo
+
+# (opsional) OS noise
+Thumbs.db
+._*
